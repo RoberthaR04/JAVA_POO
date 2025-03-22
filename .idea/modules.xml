@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Aprendendo_Java/Aprendendo_Java.iml" filepath="$PROJECT_DIR$/Aprendendo_Java/Aprendendo_Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Depuracao_e_teste_de_software/Depuracao_e_teste_de_software.iml" filepath="$PROJECT_DIR$/Depuracao_e_teste_de_software/Depuracao_e_teste_de_software.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/JAVA_POO.iml" filepath="$PROJECT_DIR$/.idea/JAVA_POO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercicio_3/exercicio_3.iml" filepath="$PROJECT_DIR$/exercicio_3/exercicio_3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercicio_4/exercicio_4.iml" filepath="$PROJECT_DIR$/exercicio_4/exercicio_4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercicio_6/exercicio_6.iml" filepath="$PROJECT_DIR$/exercicio_6/exercicio_6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercicio_7/exercicio_7.iml" filepath="$PROJECT_DIR$/exercicio_7/exercicio_7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercicio_9/exercicio_9.iml" filepath="$PROJECT_DIR$/exercicio_9/exercicio_9.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercio_2/exercio_2.iml" filepath="$PROJECT_DIR$/exercio_2/exercio_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercio_5/exercio_5.iml" filepath="$PROJECT_DIR$/exercio_5/exercio_5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vetores_e_matrizes/vetores_e_matrizes.iml" filepath="$PROJECT_DIR$/vetores_e_matrizes/vetores_e_matrizes.iml" />
+    </modules>
+  </component>
+</project>
