@@ -2,18 +2,5 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/Aprendendo_Java" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/Depuracao_e_teste_de_software" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/JAVA" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/JAVA_POO" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/exercicio_3" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/exercicio_4" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/exercicio_6" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/exercicio_7" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/exercicio_8" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/exercicio_9" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/exercio_2" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/exercio_5" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/vetores_e_matrizes" vcs="Git" />
   </component>
 </project>
