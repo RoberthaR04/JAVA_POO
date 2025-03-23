@@ -5,8 +5,77 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e6a7f43b-efcc-42e8-b809-70d4e9e6bc12" name="Changes" comment="java">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JAVA_POO/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA_POO/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicio_a/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicio_a/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicio_a/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicio_a/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicio_a/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicio_a/exercicio_a.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicio_a/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicio_b/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicio_b/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicio_b/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicio_b/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicio_b/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicio_b/exercicio_b.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicio_b/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicio_c/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicio_c/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicio_c/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicio_c/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicio_c/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicio_c/exercicio_c.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicio_c/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicio_d/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicio_d/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicio_d/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicio_d/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicio_d/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicio_d/exercicio_d.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicio_d/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicio_e/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicio_e/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicio_e/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicio_e/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicio_e/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicio_e/exercicio_e.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicio_e/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicio_f/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicio_f/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicio_f/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicio_f/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicio_f/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicio_f/exercicio_f.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicio_f/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicio_g/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicio_g/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicio_g/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicio_g/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicio_g/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicio_g/exercicio_g.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicio_g/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicio_h/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicio_h/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicio_h/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicio_h/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicio_h/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicio_h/exercicio_h.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicio_h/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicio_i/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicio_i/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicio_i/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicio_i/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicio_i/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicio_i/exercicio_i.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicio_i/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lista_depuracao_e_teste/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lista_depuracao_e_teste/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lista_depuracao_e_teste/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lista_depuracao_e_teste/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lista_depuracao_e_teste/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lista_depuracao_e_teste/lista_depuracao_e_teste.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lista_depuracao_e_teste/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lista_depuracao_e_teste/test/buscarTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,7 +83,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/exercicio_a" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0
@@ -25,19 +94,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;java&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Rezen/Desktop/JAVA_POO&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Rezen/Desktop/JAVA_POO",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
   }
-}</component>
+}]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
