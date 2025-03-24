@@ -1,20 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="VcsDirectoryMappings">
-<<<<<<< HEAD
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/exercicio_a" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/exercicio_b" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/exercicio_c" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/exercicio_d" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/exercicio_e" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/exercicio_f" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/exercicio_g" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/exercicio_h" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/exercicio_i" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/lista_depuracao_e_teste" vcs="Git" />
-=======
-    <mapping directory="" vcs="Git" />
->>>>>>> main
   </component>
 </project>
